@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background: #4bff92;
+}
+
+.nav {
+    background-color: #5585ff;
+}
+
+.news {
+    background-color: #ff8a47;
+    width: 450px;
+    display: table-cell;
+}
+
+.content {
+    background-color: #fffe5e;
+    display: table-cell;
+}
+
+.ad {
+    background-color: #ff1aed;
+    width: 145px;
+    display: table-cell;
+
+}
+
+.footer {
+    background-color: #51e9ff;
+}
+
+#table {
+    width: 100%;
+    height: 100vh;
+    border-spacing: 0;
+}
+
+#table th, #table td {
+    vertical-align: top;
+}
